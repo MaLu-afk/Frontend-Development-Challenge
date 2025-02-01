@@ -3,7 +3,7 @@
 El presente trabajo, consiste en desarrollar un juego que permita al 
 usuario ingresar los nombres de los posibles amigos secretos. Finalizado
 el registro de los participantes, se procede a sortear. Esto hará que se 
-seleccione aleatoriamente a los amigos secretos.
+seleccione aleatoriamente al amigo secreto.
 
 ## El desarrollo de este interesante juego consiste en:
 
